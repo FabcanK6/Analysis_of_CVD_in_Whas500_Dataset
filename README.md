@@ -31,7 +31,7 @@ The analysis confirms that age, systolic blood pressure, and BMI are significant
 - Necessary Python libraries: pandas, matplotlib, seaborn, etc.
 
 ## Authors
-- [Your Name](https://github.com/FabcanK6)
+- [Fabian Msafiri](https://github.com/FabcanK6)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
