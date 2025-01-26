@@ -22,8 +22,8 @@ Key findings include significant correlations with age, systolic blood pressure,
 The analysis confirms that age, systolic blood pressure, and BMI are significant predictors of CVD, highlighting the importance of monitoring these risk factors. The study underscores the need for early detection and comprehensive management strategies. While the findings offer valuable insights, further research across diverse populations is needed.
 
 ## How to Use
-1. Run the `src/EDA_Code.ipynb` notebook to reproduce the analysis.
-2. Review the `reports/CVD Analytical Report.pdf` for insights and conclusions.
+1. Run the `data/EDA_Code.ipynb` notebook to reproduce the analysis.
+2. Review the `data/CVD Analytical Report.docx` for insights and conclusions.
 
 ## Requirements
 - Python 3.x
